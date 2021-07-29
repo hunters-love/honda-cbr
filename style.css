@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
 }
 
  
@@ -9,13 +10,36 @@ body{
     width: 100%;
 }
 
+
+
 .buttons{
     background-color: #E76F51;
     border-radius: 5px;
     color: white;
     padding: 10px 15px;
 }
+
 .header-byk{
-    width: 512px;
-    height: 447px;
+    width: 100%;
 }
+
+/* top area css end  */
+
+.featured-heighlight{
+    color: #E76F51;
+}
+.featured{
+    width: 80%;
+}
+.first{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+.third{
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+}
+
+
+
