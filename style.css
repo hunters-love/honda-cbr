@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+ 
+.top-area{
+    background-color: #264653;
+    
+    width: 100%;
+}
+
+.buttons{
+    background-color: #E76F51;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+}
+.header-byk{
+    width: 512px;
+    height: 447px;
+}
