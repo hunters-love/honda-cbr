@@ -42,4 +42,20 @@ body{
 }
 
 
+/* happy client part start  */
+
+.client-highlight{
+    color: #E76F51;
+}
+
+.footers{
+    color: royalblue;
+}
+card-footer{
+    border: none;
+}
+
+/* happy client part end  */
+
+
 
