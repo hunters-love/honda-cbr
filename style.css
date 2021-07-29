@@ -55,7 +55,25 @@ card-footer{
     border: none;
 }
 
+.fa-star.field{
+    color: sandybrown;
+}
+
 /* happy client part end  */
+
+
+
+/* frequently asked question area  */
+
+.frequently-asked-question{
+    width: 100%;
+    
+}
+
+.faq{
+    color: #E76F51;
+}
+
 
 
 
